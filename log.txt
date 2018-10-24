@@ -1,0 +1,26 @@
+codo_init
+  platform: Max OS X
+  codo_system_init
+  Compiled against SDL version: 2.0.3
+  Linked against SDL version:   2.0.3
+  Built-in video drivers:   0 cocoa   1 dummy  
+  Current video driver: cocoa
+  Built-in render drivers:
+  Renderer opengl:
+    Flags: 0x0000000E ( |  | )
+    Texture formats (1): ARGB8888
+  Renderer software:
+    Flags: 0x00000009 ( | )
+    Texture formats (8): RGB555, RGB565, RGB888, BGR888, ARGB8888, RGBA8888, ABGR8888, BGRA8888
+  codo_reset_timer
+  codo_gui_init
+  codo_keys_init
+  codo_text_init
+  codo_video_init
+  codo_mouse_init
+  codo_joystick_init
+  searching for joysticks
+    found 0 joysticks
+  ok
+ok
+codo_load_pod: /pico8.dat failed 
